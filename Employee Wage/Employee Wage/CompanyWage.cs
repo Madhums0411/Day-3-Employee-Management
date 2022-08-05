@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Employee_Wage
+namespace EmployeeWageProblem
 {
     public class Company
     {
